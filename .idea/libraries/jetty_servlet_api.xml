@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jetty.servlet.api" type="repository">
+    <properties maven-id="jetty:servlet-api:2.5-6.0.0beta1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jetty/servlet-api/2.5-6.0.0beta1/servlet-api-2.5-6.0.0beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
