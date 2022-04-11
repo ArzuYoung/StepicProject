@@ -7,7 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="stepicProject" />
+        <module name="L2.1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="stepicProject" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
