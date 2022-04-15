@@ -10,31 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2993750-6da8-40ac-bec6-47204b36fb26" name="Changes" comment="add mirror servlet">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authorization/pub_html_page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authorization/src/main/java/accounts/AccService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authorization/src/main/java/accounts/UserProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authorization/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authorization/src/main/java/servlets/SessionServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authorization/src/main/java/servlets/UsersServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepicProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/eclipse_jetty_orbit_jdt_core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jetty_servlet_api.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assembly.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assembly.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/MirrorServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/RequestsServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templater/PageGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
