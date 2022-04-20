@@ -2,42 +2,35 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="stepicProject:jar" />
+      <artifact name="serverr" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2993750-6da8-40ac-bec6-47204b36fb26" name="Changes" comment="add mirror servlet">
+    <list default="true" id="80c7d479-1e06-4dda-b670-032133a64ef0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub_html_page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub_html_page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/SignInServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/SignInServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/SignUpServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/SignUpServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServer/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepicProject.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Microsoft/jdk-11.0.12.7-hotspot/lib/src.zip!/java.base/java/lang/SecurityException.java" root0="SKIP_INSPECTION" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,96 +42,95 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="279jViaI4hiU5rIsGqLRMUxcRBs" />
+  <component name="ProjectId" id="27h7CQesOF3gLKP6mVVDrq3f3U1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataBase" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\IdeaProjects\stepicProject\src\main\resources" />
-      <recent name="C:\Users\Lenovo\IdeaProjects\stepicProject\src" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\stepicProject\Authorization\src\resources" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\stepicProject\Authorization\src" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\stepicProject\Authorization" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\stepicProject\Authorization\out\artifacts\authorization_jar" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="stepicProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Batch.start">
+    <configuration name="assembly" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="L2.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="assembly.bat" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tester.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/HW01/tester.jar" />
+    <configuration name="start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="L2.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="start.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L2.1-1.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/L2.1-1.0.jar" />
       <method v="2" />
     </configuration>
-    <configuration name="StepicServer" type="JettyRunner-By-GuiKeller" factoryName="Jetty Runner">
-      <option name="JettyRunnerV130-SelectedModuleName" value="&lt;all modules&gt;" />
-      <option name="JettyRunnerV130-WebAppPath" value="/stepicProject" />
-      <option name="JettyRunnerV130-WebAppFolder" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\plugins\jetty\" />
-      <option name="JettyRunnerV130-ClassesDirectory" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\plugins\jetty\" />
-      <option name="JettyRunnerV130-RunOnPort" value="8080" />
-      <option name="JettyRunnerV130-JettyRunnerPath" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\plugins\jetty\jetty-runner.jar" />
-      <option name="JettyRunnerV130-JettyXML" value="C:\Users\Lenovo\IdeaProjects\stepicProject\.idea\libraries\jetty_servlet_api.xml" />
-      <option name="JettyRunnerV130-VmArgs" value="" />
-      <option name="JettyRunnerV130-PassParentEnvVars" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="serverr" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/serverr/serverr.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Lenovo\IdeaProjects\stepicProject\Authorization" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="L2.1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assembly.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/assembly.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JAR Application.tester.jar" />
+        <item itemvalue="Batch.start" />
+        <item itemvalue="Batch.assembly" />
+        <item itemvalue="JAR Application.L2.1-1.0.jar" />
+        <item itemvalue="Shell Script.assembly.sh" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2993750-6da8-40ac-bec6-47204b36fb26" name="Changes" comment="" />
-      <created>1648739223951</created>
+      <changelist id="80c7d479-1e06-4dda-b670-032133a64ef0" name="Changes" comment="" />
+      <created>1649760337355</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648739223951</updated>
+      <updated>1649760337355</updated>
     </task>
-    <task id="LOCAL-00001" summary="complete simple server">
-      <created>1649160654530</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1649160654530</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add mirror servlet">
-      <created>1649165350902</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1649165350902</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,10 +143,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="complete simple server" />
-    <MESSAGE value="add mirror servlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mirror servlet" />
   </component>
 </project>
