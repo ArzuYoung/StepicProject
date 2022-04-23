@@ -1,0 +1,6 @@
+[04-23 21:36:48,533, 1637] example.Main Starting at http://127.0.0.1:8080
+[04-23 21:36:49,478, 2582] example.Main Server started
+[04-23 21:36:55,239, 8343] servlets.HomePageServlet Limit: 1. Count 0
+[04-23 21:36:55,239, 8343] servlets.HomePageServlet User pass
+[04-23 21:36:57,093, 10197] servlets.HomePageServlet Limit: 1. Count 1
+[04-23 21:36:57,093, 10197] servlets.HomePageServlet User were rejected
